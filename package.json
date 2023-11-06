@@ -1,0 +1,17 @@
+{
+  "name": "gramjs",
+  "version": "1.0.0",
+  "description": "my telegram cli bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "input": "^1.0.1",
+    "moment-timezone": "^0.5.43",
+    "telegram": "^2.19.10"
+  }
+}
